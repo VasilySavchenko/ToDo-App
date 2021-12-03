@@ -143,8 +143,8 @@ input placeholder:placeholder-shown {
 .strike {
   text-decoration: line-through;
 }
-footer {
-  min-height: 15vh;
+.footer {
+  min-height: 13vh;
 }
 footer h2 {
   color: white;
